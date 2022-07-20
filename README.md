@@ -1,4 +1,4 @@
-# Node.js PostgreSQL CRUD with Express Rest APIs
+# Node.js PostgreSQL CRUD
 
 The following table shows overview of the Rest APIs that will be exported:
 
