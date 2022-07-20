@@ -9,7 +9,7 @@ The following table shows overview of the Rest APIs that will be exported:
 - DELETE `api/products/:id` remove Product by id
 - DELETE `api/products` remove all products
 - GET `api/products/published` find all published products
-- GET `api/products?title=[kw]` find all products which title contains 'kw'
+- GET `api/products?title=[laptop]` find all products which title contains 'laptop'
 
 ## Project setup
 
